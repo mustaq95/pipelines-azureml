@@ -6,6 +6,8 @@ This example requires some familiarity with Azure Pipelines or GitHub Actions. F
 
 # Instructions
 
+[![Build Status](https://dev.azure.com/mustaqmollah/mustaqmollah/_apis/build/status/mustaq95.pipelines-azureml?branchName=master)](https://dev.azure.com/mustaqmollah/mustaqmollah/_build/latest?definitionId=1&branchName=master)
+
 ## Detailed Instructions
 
 First, fork (or clone) the repository to your own GitHub account, so that you can make modification to your pipelines. From there, follow these instructions to get the whole setup and demo up and running:
