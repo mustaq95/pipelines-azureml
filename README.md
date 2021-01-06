@@ -6,7 +6,6 @@ This example requires some familiarity with Azure Pipelines or GitHub Actions. F
 
 # Instructions
 
-[![Build Status](https://dev.azure.com/mustaqmollah/mustaqmollah/_apis/build/status/mustaq95.pipelines-azureml?branchName=master)](https://dev.azure.com/mustaqmollah/mustaqmollah/_build/latest?definitionId=1&branchName=master)
 
 ## Detailed Instructions
 
