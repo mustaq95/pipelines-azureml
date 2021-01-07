@@ -5,7 +5,7 @@ This repo shows an E2E training and deployment pipeline with Azure Machine Learn
 This example requires some familiarity with Azure Pipelines or GitHub Actions. For more information, see [here](https://docs.microsoft.com/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=tfs-2018-2).
 
 # Instructions
-
+[![Build Status](https://dev.azure.com/mustaqmollah/mustaqmollah/_apis/build/status/mustaq95.pipelines-azureml?branchName=master)](https://dev.azure.com/mustaqmollah/mustaqmollah/_build/latest?definitionId=9&branchName=master)
 
 ## Detailed Instructions
 
